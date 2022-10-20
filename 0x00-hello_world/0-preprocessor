@@ -1,1 +1,2 @@
 gcc -E $CFILE -OC
+gcc -E $CFILE -0 C
